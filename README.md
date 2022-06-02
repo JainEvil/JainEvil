@@ -1,0 +1,3 @@
+- 👋 Hi, I go by JainEvil as my main Username on the internet. 
+- 👀 I’m interested in creating various projects that would make some applications easier to use.
+- 🌱 I’m currently starting to figure out what I need to learn, it will mainly be Front-end or Back-end developer.
